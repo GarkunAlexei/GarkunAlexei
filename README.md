@@ -1,5 +1,15 @@
-### Hi there 👋
-Приветй!👋
+## Привет! 👋
+
+### Меня зовут Алексей, я фронтэнд-разработчик
+
+# мой технологический стэк
+*HTML/CSS
+*JavaScript
+*React
+*Redux
+*Redux-saga
+*Express
+*Postgres
 <!--
 **GarkunAlexei/GarkunAlexei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
