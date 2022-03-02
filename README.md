@@ -11,7 +11,7 @@
 * Express
 * Postgres
 
-<img width="250" alt="Уровень" src="https://www.codewars.com/users/Bigud007/badges/micro">
+<img width="250" alt="Уровень" src="https://www.codewars.com/users/Bigud007/badges/micr">
 <!--
 **GarkunAlexei/GarkunAlexei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
