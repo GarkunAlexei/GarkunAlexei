@@ -10,6 +10,8 @@
 * Redux-saga
 * Express
 * Postgres
+
+<img width="100" alt="Уровень" src="https://www.codewars.com/users/Bigud007/badges/micro">
 <!--
 **GarkunAlexei/GarkunAlexei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
